@@ -4,7 +4,7 @@ Welcome to my portfolio! Here I document a summary of my projects in the data fi
 # Table of Contents
 - SQL
 - Python
-- [Tableau]
+- Tableau
 
 # SQL
 # Python
