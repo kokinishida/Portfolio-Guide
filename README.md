@@ -7,40 +7,11 @@ Welcome to my portfolio! Here I document a summary of my projects in the data fi
 - Tableau
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 # SQL
+| Project Link  | Tools         | Description |
+| ------------- | ------------- | ----------- |
+| Content Cell  | Content Cell  | Content Cell|
+| Content Cell  | Content Cell  | Content Cell|
 # Python
 # Tableau
 
