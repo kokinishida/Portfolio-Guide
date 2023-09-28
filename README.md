@@ -6,6 +6,40 @@ Welcome to my portfolio! Here I document a summary of my projects in the data fi
 - Python
 - Tableau
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 # SQL
 # Python
 # Tableau
