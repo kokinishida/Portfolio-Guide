@@ -12,6 +12,16 @@ Welcome to my portfolio! Here I document a summary of my projects in the data fi
 | ------------- | ------------- | ----------- |
 | Content Cell  | Content Cell  | Content Cell|
 | Content Cell  | Content Cell  | Content Cell|
+
 # Python
+| Project Link  | Tools         | Description |
+| ------------- | ------------- | ----------- |
+| Content Cell  | Content Cell  | Content Cell|
+| Content Cell  | Content Cell  | Content Cell|
+
 # Tableau
+| Project Link  | Tools         | Description |
+| ------------- | ------------- | ----------- |
+| Content Cell  | Content Cell  | Content Cell|
+| Content Cell  | Content Cell  | Content Cell|
 
