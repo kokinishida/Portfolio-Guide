@@ -29,5 +29,5 @@ Welcome to my portfolio! Here I document a summary of my projects in the data fi
 
 | Project Link  | Tools         | Description |
 | ------------- | ------------- | ----------- |
-| Content Cell  | Content Cell  | Content Cell|
+| 🏃 [Bellabeat Fitness Tracking Analysis](https://github.com/kokinishida/Bellabeat-Capstone-Project/tree/main)  | R, Rmarkdown, Tableau, Tidyverse, Lubridate, ggplot| Discovered insights into whether users are using the FitBit app for tracking health habits, their frequency of usage across the week and whether there is correlation between the hours logged, number of steps taken and calories burnt.|
 | Content Cell  | Content Cell  | Content Cell|
