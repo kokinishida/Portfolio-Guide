@@ -11,7 +11,7 @@ Welcome to my portfolio! Here I document a summary of my projects in the data fi
 # SQL
 | Project Link  | Tools         | Description |
 | ------------- | ------------- | ----------- |
-| [8-Week SQL Challenge](https://github.com/kokinishida/8-Week-SQL-Challenge)  | SQL, PostgreSQL, BigQuery  | This repository shows my answers for the 8 case studies from Danny Ma's SQL Challenge. It showcases my ability to tackle various SQL challenges and demonstrates my proficiency in SQL query writing and problem-solving skills.|
+| 🍫 [8-Week SQL Challenge](https://github.com/kokinishida/8-Week-SQL-Challenge)  | SQL, PostgreSQL, BigQuery  | This repository shows my answers for the 8 case studies from Danny Ma's SQL Challenge. It showcases my ability to tackle various SQL challenges and demonstrates my proficiency in SQL query writing and problem-solving skills.|
 
 
 # Python
