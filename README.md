@@ -22,8 +22,8 @@ Welcome to my portfolio! Here I document a summary of my projects in the data fi
 # Tableau
 | Project Link  | Tools         | Description |
 | ------------- | ------------- | ----------- |
-| Content Cell  | Content Cell  | Content Cell|
-| Content Cell  | Content Cell  | Content Cell|
+| 🏃 [Bellabeat Fitness Tracking Analysis](https://github.com/kokinishida/Bellabeat-Capstone-Project/tree/main)  | Tableau | Created charts and a clear dashboard showing the trends and correlations found in the Bellabeat user data.|
+
 
 # R
 
