@@ -5,7 +5,7 @@ Welcome to my portfolio! Here I document a summary of my projects in the data fi
 - [SQL](https://github.com/kokinishida/Portfolio-Guide/blob/main/README.md#sql)
 - [Python](https://github.com/kokinishida/Portfolio-Guide/blob/main/README.md#python)
 - [Tableau](https://github.com/kokinishida/Portfolio-Guide/blob/main/README.md#tableau)
-- [R]()
+- [R](https://github.com/kokinishida/Portfolio-Guide/blob/main/README.md#r)
 
 
 # SQL
