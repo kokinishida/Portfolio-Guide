@@ -6,7 +6,7 @@ Welcome to my portfolio! Here I document a summary of my projects in the data fi
 - [Python](https://github.com/kokinishida/Portfolio-Guide/blob/main/README.md#python)
 - [Tableau](https://github.com/kokinishida/Portfolio-Guide/blob/main/README.md#tableau)
 - [R](https://github.com/kokinishida/Portfolio-Guide/blob/main/README.md#r)
-- [Excel] ()
+- [Excel](https://github.com/kokinishida/Portfolio-Guide/blob/main/README.md#excel)
 
 
 # SQL
@@ -37,4 +37,5 @@ Welcome to my portfolio! Here I document a summary of my projects in the data fi
 
 | Project Link  | Tools         | Description |
 | ------------- | ------------- | ----------- |
+| 🚦 [UK Road Accident Dashboard](https://github.com/kokinishida/PortfolioProjects/tree/main/Road%20Accident%20Dashboard) | Excel, PivotTable, Charts | Cleaned, transformed, and analyzed the road casualty data to create visualizations in Excel. Summarized Casualty findings in relation to area, road type, vehicle type, etc in a dashboard. | 
 
