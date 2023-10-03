@@ -12,7 +12,7 @@ Welcome to my portfolio! Here I document a summary of my projects in the data fi
 | Project Link  | Tools         | Description |
 | ------------- | ------------- | ----------- |
 | 🍫 [8-Week SQL Challenge](https://github.com/kokinishida/8-Week-SQL-Challenge)  | SQL, PostgreSQL, BigQuery  | This repository shows my answers for the 8 case studies from Danny Ma's SQL Challenge. It showcases my ability to tackle various SQL challenges and demonstrates my proficiency in SQL query writing and problem-solving skills.|
-| [Covid Data Exploration](https://github.com/kokinishida/PortfolioProjects/blob/main/CovidDataExploration.sql) | SQL | Performed exploratory analysis and data manipulation on Covid data. |
+| 🦠 [Covid Data Exploration](https://github.com/kokinishida/PortfolioProjects/blob/main/CovidDataExploration.sql) | SQL | Performed exploratory analysis and data manipulation on Covid data. |
 
 
 # Python
