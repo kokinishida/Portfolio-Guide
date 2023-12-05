@@ -20,7 +20,7 @@ Welcome to my portfolio! Here I document a summary of my projects in the data fi
 | Project Link  | Tools         | Description |
 | ------------- | ------------- | ----------- |
 | 🦠 [Finding the Mass of Z boson](https://github.com/kokinishida/Particle-Physics) | Python, Matplotlib, Scipy, Numpy, VSCode  | Wrote a Python script that takes data from particle decays, calculated the invariant mass of each perticle pair, and performed a selection process to optimize the result.|
-| 🌍 EDA on World Population | Python, Jupyter Notebook, matplotlib, Pandas, Seaborn | Performed explolatory data analysis on world population. Compared trends and correlation of population at different years and used matplotlib to visualize the population growth by continent.|
+| 🌍 [EDA on World Population](https://github.com/kokinishida/PortfolioProjects/tree/main/EDA%20in%20Pandas) | Python, Jupyter Notebook, matplotlib, Pandas, Seaborn | Performed explolatory data analysis on world population. Compared trends and correlation of population at different years and used matplotlib to visualize the population growth by continent.|
 
 # Tableau
 | Project Link  | Tools         | Description |
