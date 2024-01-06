@@ -26,6 +26,7 @@ Welcome to my portfolio! Here I document a summary of my projects in the data fi
 | Project Link  | Tools         | Description |
 | ------------- | ------------- | ----------- |
 | 🏃 [Bellabeat Fitness Tracking Analysis](https://github.com/kokinishida/Bellabeat-Capstone-Project/tree/main)  | Tableau | Created charts and a clear dashboard showing the trends and correlations found in the Bellabeat user data.|
+| 🏨 [Hotel Revenue Project] | Excel, BigQuery, SQL, Tableau | Used a large dataset of 300000+ hotel stay data from all over the world and summarized it in Tableau. Performed data cleaning in Excel, merging data in SQL using BigQuery and using the transformed data in Tableau. |
 
 
 # R
@@ -39,4 +40,5 @@ Welcome to my portfolio! Here I document a summary of my projects in the data fi
 | Project Link  | Tools         | Description |
 | ------------- | ------------- | ----------- |
 | 🚦 [UK Road Accident Dashboard](https://github.com/kokinishida/PortfolioProjects/tree/main/Road%20Accident%20Dashboard) | Excel, PivotTable, Charts | Cleaned, transformed, and analyzed the road casualty data to create visualizations in Excel. Summarized Casualty findings in relation to area, road type, vehicle type, etc in a dashboard. | 
+| 🏨 [Hotel Revenue Project] | Excel, BigQuery, SQL, Tableau | Used a large dataset of 300000+ hotel stay data from all over the world and summarized it in Tableau. Performed data cleaning in Excel, merging data in SQL using BigQuery and using the transformed data in Tableau. |
 
